@@ -1,0 +1,10 @@
+###
+POST http://localhost:8029/api/payment/
+Content-Type: application/json
+
+{
+  "kind": "accountant"
+}
+###
+
+GET http://localhost:8029/api/payment/eRbt2bb3qpJVjVNViXj6khMiUT_zFg
